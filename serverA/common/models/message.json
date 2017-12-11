@@ -1,0 +1,9 @@
+{
+  "name": "Message",
+  "base": "PersistedModel",
+  "properties": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

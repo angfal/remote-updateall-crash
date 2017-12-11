@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "remoteDS": {
+    "name": "remoteDS",
+    "connector": "remote",
+    "url": "http://localhost:3001/api"
+  }
+}
